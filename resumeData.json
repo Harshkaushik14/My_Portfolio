@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Harsh Kaushik",
+    "occupation": "Web-Developer",
+    "description": "I Love to Code",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Harsh! I've been coding for over 2 years now. I am from india , I am still doing my Graduation. I want to become a successful Web-Developer.",
+    "contactmessage": "Get in touch with me!",
+    "email": "14052000hk@gmail.com",
+    "phone": "+91 9520161200",
+    "address": {
+      "street": "Saket Colony",
+      "city": "MUZAFFARNAGAR",
+      "state": "UttarPradesh",
+      "zip": "W3B D3V"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100005565768350",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/harsh-kaushik-0a33b0200/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/Webdev_kaushik/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Harshkaushik14",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "Universty": "Shree Ram Group Of Colleges",
+        "degree": "Bachelor's of Computer Application",
+        "Will be graduated in": "2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Expressjs",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
